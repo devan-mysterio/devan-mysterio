@@ -3,9 +3,9 @@
   <img src="https://github.com/devan-mysterio/devan-mysterio/blob/src/ffiwdbfoewn.jpg"/>
 </div>
 
-Website: [Runic-Network](https://www.runic-network.net/) | Discord: [Discord](https://discord.gg/aP4yTj7Rvs)
+Website: [Flash-Networks](https://www.mysterios-playground.net/) | Discord: [Discord](https://discord.gg/aP4yTj7Rvs)
 
-Currently working on Runic-Network Minecraft Servers. Development is a pain!
+Currently working on Flash-Networks Minecraft Servers. Development is a pain!
 
 ![Devan's Github Stats](https://github-readme-stats.vercel.app/api?username=devan-mysterio&show_icons=true&theme=dracula)
 <!--
